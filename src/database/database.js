@@ -1,4 +1,3 @@
-const fuss = require('fs');
 const mysql = require('mysql2/promise');
 const bcrypt = require('bcrypt');
 const config = require('../config.js');
